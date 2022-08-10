@@ -10,5 +10,8 @@ If you are participating in the workshop, you may either (a) work on the [tidyve
 2. Useful functions to know for data wrangling, subsetting, manipulating, and summarising data
 3. Wrangling and plotting data
 
+## Description
+The {tidyverse} is a package containing some of the most useful set of functions/packages used in data tidying, cleaning, organizing, and  manipulating in R. It is a toolkit designed for data science that contains 8 core packages ({dplyr}, {tidyr}, {readr}, {ggplot2}, {stringr}, {tibble}, {purr}, {forcats}, and {magrittr}). All of these packages share an underlying philosophy, grammar, and data structure, making it simple to streamline data manipulation and visualization. During this workshop, participants live code along with the instructor and learn how to string together useful functions for selecting variables, filtering for specific geographies, creating new columns, and otherwise exploring their data.
+
 ## Data source
 Gapminder.
